@@ -7,6 +7,7 @@
     tools:context="edu.css.cis3334.unit5_multiactivity_flooring_start.ResultsActivity">
 
     <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:id="@+id/" />
 
 </RelativeLayout>
